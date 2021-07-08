@@ -1,0 +1,3 @@
+rootProject.name = "BaiduOrc"
+include ':app'
+include ':ocr_ui'
